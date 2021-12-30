@@ -1,3 +1,3 @@
 # DAY-25-T2
 API TASK
-deployment link - https://trusting-nightingale-aa7a74.netlify.app/
+deployment link - https://flamboyant-kepler-5fc69f.netlify.app/
